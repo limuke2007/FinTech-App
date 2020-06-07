@@ -1,0 +1,8 @@
+com\peerLending\securityapp\user\config\MessagingConfig.class
+com\peerLending\securityapp\user\dto\UserDTO.class
+com\peerLending\securityapp\user\model\repository\UserRepository.class
+com\peerLending\securityapp\application\UserController.class
+com\peerLending\securityapp\user\exception\UserNotFoundException.class
+com\peerLending\securityapp\SecurityappApplication.class
+com\peerLending\securityapp\user\model\User.class
+com\peerLending\securityapp\user\service\NotificationService.class
