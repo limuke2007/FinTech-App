@@ -1,0 +1,4 @@
+server:
+  port: 8090
+demo:
+  sentence: This sentence is coming from Limu's properties

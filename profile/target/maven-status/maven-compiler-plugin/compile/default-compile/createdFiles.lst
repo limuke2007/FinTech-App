@@ -1,0 +1,6 @@
+com\peerLending\profile\application\ProfileController.class
+com\peerLending\profile\application\config\MessagingConfig.class
+com\peerLending\profile\domain\event\UserRegisteredEventHandler.class
+com\peerLending\profile\domain\repository\UserRepository.class
+com\peerLending\profile\ProfileApplication.class
+com\peerLending\profile\domain\model\User.class
